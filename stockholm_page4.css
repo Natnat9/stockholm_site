@@ -1,0 +1,33 @@
+div {
+ text-align: justify;
+  font-size: 36px;
+  margin: 0 auto;
+  font-style: italic;
+  font-family: candara;
+  color: #154861;
+  font-weight: lighter;
+  max-width: 800px;
+  padding: 20px;
+  margin-top: 70px;
+  box-shadow
+}
+li {
+  list-style-position: inside;
+  color: #FFB303;
+  text-align: justify
+}
+p {
+  font-style: normal;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+  color: #CE4212;
+}
+img {
+  text-align: center;
+  margin: 0 auto;
+  overflow: left;
+}
+.pi1 {
+width: 250px;
+}

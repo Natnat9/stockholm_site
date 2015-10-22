@@ -1,0 +1,87 @@
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 70px;
+  font-size: 72px;
+  font-style: italic;
+  font-family: candara;
+  color: #154861;
+  width: 1200px;
+}
+.pi1 {
+  box-shadow: 0px 8px 9px 3px #404245;
+  background-image: url("https://pp.vk.me/c628025/v628025026/ccf4/GJT2x96mnoc.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100%;
+  width: 1200px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+.start {
+  font-size: 38px;
+  width: 1200px;
+  font-family: candara;
+  font-style: italic;
+  text-align: justify;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+.pi2 {
+ background-image: url("https://pp.vk.me/c402829/v402829026/25d5/aFJvRO3XLak.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100%;
+  width: 1200px;
+  height: 800px;
+  margin: 0 auto;
+  margin-top: 70px;
+  box-shadow: 0px 8px 9px 3px #404245;
+}
+.yes {
+  font-size: 55px;
+  font-family: candara;
+  font-weight: bolder;
+  color: #154861;
+  text-align: center;
+  font-style: italic;
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+.yes:hover a {
+  text-decoration: underline;
+  color: #FFB303;
+  font-size: 60px;
+  cursor: pointer;
+  line-height: 75px;
+  font-style: normal;
+}
+.no {
+  font-size: 55px;
+  font-family: candara;
+  font-weight: bolder;
+  color: #154861;
+  text-align:center;
+  font-style: italic;
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+.no:hover a{
+  text-decoration: underline;
+  color: #CE4212;
+  font-size: 60px;
+  cursor: pointer;
+  line-height: 75px;
+  font-style: normal;
+}
+a {
+  color: #154861;
+  text-decoration: none;
+  width: 1200px;
+}
